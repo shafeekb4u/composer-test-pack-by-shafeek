@@ -12,7 +12,7 @@ Usage
 
 require_once __DIR__ . '/vendor/autoload.php';
 
-use vitalis\HelloWorld\Index;
+use web_developer_in_bangalore\composer_test_pack_by_shafeek\Index;
 
 $greeting = new Index();
 
