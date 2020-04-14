@@ -1,2 +1,5 @@
 # composer-test-pack-by-shafeek
-Its a test hello world composer library pack 
+
+Link : https://www.w3resource.com/php/composer/create-publish-and-use-your-first-composer-package.php
+
+Its a "hello world" composer test library pack 

@@ -1,0 +1,27 @@
+{
+    "name": "web-developer-in-bangalore/composer-test-pack-by-shafeek",
+    "type": "library",
+    "description": "This library allows you to call hello world using composer library",
+  	"homepage": "https://github.com/web-developer-in-bangalore/composer-test-pack-by-shafeek",
+  	"license": "MIT",
+    "authors": [
+      {
+          "name": "Mohammed Shafeek",
+          "email": "shafeekb4u@gmail.com"
+      }
+    ],
+    "minimum-stability": "stable",
+	  "keywords": [
+  		"Hello World",
+  		"hello world",
+  		"hello world php library",
+  		"print hello world in php"
+  	],
+    "autoload": {
+        "psr-4": {"web_developer_in_bangalore\\composer_test_pack_by_shafeek\\": "src/"}
+    },
+    "require": {    	
+    },
+    "require-dev": {        
+    }
+}
