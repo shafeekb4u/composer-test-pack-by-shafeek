@@ -6,7 +6,7 @@ Its a "hello world" composer test library pack
 
 Installation using Composer
 
-composer require web-developer-in-bangalore/composer-test-pack-by-shafeek
+composer require web-developer-in-bangalore/composer-test-pack-by-shafeek:dev-master
 
 Usage
 
